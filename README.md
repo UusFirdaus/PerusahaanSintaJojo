@@ -1,2 +1,2 @@
 # PerusahaanSintaJojo
-Perusahaan
+Koperasi
